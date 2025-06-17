@@ -30,7 +30,9 @@ Provide retailers with insights to optimize stock, pricing, and promotions.
 **Tools & Technologies**
 
 **Power BI**: For building the dashboard, data modeling, and creating visualizations.
+
 **Kaggle**: Used as the primary source of clothing sales data
+
 **Excel**: Used in cleaning the data vefore importing into Power BI.
 
 **Key Insights**
