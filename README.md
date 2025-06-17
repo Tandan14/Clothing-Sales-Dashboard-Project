@@ -43,7 +43,7 @@ Sneakers tops up with the highest price and quantity by product and this is due 
 
 ## 📸 Dashboard Review
 
-
+![Image](https://github.com/user-attachments/assets/e6d9146c-1e2e-44c9-b1ba-24759a44e7d7)
 
 **Acknowledgements**
 
