@@ -41,9 +41,9 @@ West records the most profit and revenue due to high purchase around that region
 
 Sneakers tops up with the highest price and quantity by product and this is due to it's fashion & style including its functionality and purpose for specific uses like running,hiking and traning. Customers often buy them based on their activity needs and also cultural influence plays a huge part.
 
-**Dashboard Review**
+## 📸 Dashboard Review
 
-![Image](https://github.com/user-attachments/assets/91fc8e62-de1d-4574-a6d0-5ec1d795d1ac)
+
 
 **Acknowledgements**
 
