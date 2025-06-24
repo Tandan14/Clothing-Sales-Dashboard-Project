@@ -1,5 +1,6 @@
 # Clothing-Sales-Dashboard-Project
-** Project Overview**
+
+ **Project Overview**
  
 This Power BI dashboard project analyzes clothing sales data to uncover trends, monitor performance, and support strategic business decisions in the retail fashion sector. The dashboard enables users to explore sales across different product types, customer segments, seasons, and locations with ease and clarity.
 
